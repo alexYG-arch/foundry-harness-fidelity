@@ -1,0 +1,4 @@
+interface:
+  display_name: "Foundry Harness 忠实搭建"
+  short_description: "保持 Spec/Plan 到 Harness 的需求与验收一致，并按真实结果迭代"
+  default_prompt: "使用 $foundry-harness-fidelity，核对当前任务中 Spec/Plan 到 Harness 交付的需求覆盖、范围一致性和实际可用性，报告具体差距及证据。"
